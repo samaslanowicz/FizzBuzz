@@ -8,8 +8,12 @@ class FizzBuzz {
         while (i < 100) {
 
             // Find out which numbers divide i.
-            i = dofizzbuzz(i);
+            i = getDofizzbuzz(i);
         }
+    }
+
+    private static int getDofizzbuzz(int i) {
+        return dofizzbuzz(i);
     }
 
     private static int dofizzbuzz(int i) {
