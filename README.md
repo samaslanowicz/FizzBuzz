@@ -1,9 +1,10 @@
 # CSC207 Week 1 Lab Activity #1: Fizz Buzz
 Let's start off our exploration of Java with a classic programming challenge, Fizz Buzz!
 
-But first, let's get you your own copy of this codebase to work with.
+But first, let's get you your own copy of this codebase to work with. Sound good?
 
 ## Task 0 Forking a public repository on GitHub
+
 
 You should be currently reading this README on GitHub in the code repository:
 https://github.com/CSC207-2023F-UofT/FizzBuzz/
@@ -49,6 +50,7 @@ You can edit this file directly to check off these checkboxes throughout the lab
 Do so now for the checkbox above.
 
 And now, back to Fizz Buzz!
+
 
 ## Fizz Buzz
 
