@@ -12,7 +12,6 @@ public class Multiples {
 
                 j = j + 1;
             }
-            System.out.println(j);
-        }
+        }System.out.println(j);
     }
 }
